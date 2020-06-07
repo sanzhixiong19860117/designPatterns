@@ -1,2 +1,1 @@
-# designPatterns
-设计模式
+# designPatterns（设计模式大纲）
